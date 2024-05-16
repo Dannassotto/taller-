@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+.curriculum{
+    padding: 10px ;
+    background-color: darkgrey;
+    display: flex;
+    align-items: center;
+}
+
+.prime{
+    margin-left: 5%;
+}
+
+.container{
+    display: flex;
+}
+
+.tabla-danna {
+    padding: 10px;
+    background-color: antiquewhite;
+    width: 30%;
+    margin-right: 60px;
+}
+
+.tabla-valentina {
+    padding: 10px;
+    background-color: antiquewhite;
+    width: 30%;
+    margin-right: 60px;
+}
+
+.tabla-guerrero {
+    padding: 10px;
+    background-color: antiquewhite;
+    width: 30%;
+}
