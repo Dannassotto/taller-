@@ -12,5 +12,5 @@
 - EXP, LABORAL
 
 
-## DESCRITION
+## DESCRIPTION
 Se muestra estructura de hoja de vida para almacenar información de nuestro perfil profesional estas se dividen en cada información requeridad.
